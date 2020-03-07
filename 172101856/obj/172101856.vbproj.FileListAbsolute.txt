@@ -1,0 +1,29 @@
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Form1.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Formanggota.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Formbuku.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Formpenerbit.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Formpenulis.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\_172101856.Resources.resources
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\172101856.vbproj.GenerateResource.Cache
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\bin\Debug\172101856.exe
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\bin\Debug\172101856.pdb
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\bin\Debug\172101856.xml
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\172101856.exe
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\172101856.xml
+C:\Users\MAHASISWA\Documents\Visual Studio 2005\Projects\172101856\172101856\obj\Debug\172101856.pdb
+C:\Users\user\Documents\172101856\172101856\obj\Debug\172101856.exe
+C:\Users\user\Documents\172101856\172101856\obj\Debug\172101856.xml
+C:\Users\user\Documents\172101856\172101856\obj\Debug\172101856.pdb
+C:\Users\user\Documents\172101856\172101856\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Form1.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Formanggota.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Formbuku.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Formpenerbit.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Formpenulis.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.Resources.resources
+C:\Users\user\Documents\172101856\172101856\obj\Debug\172101856.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\172101856\172101856\bin\Debug\172101856.exe
+C:\Users\user\Documents\172101856\172101856\bin\Debug\172101856.pdb
+C:\Users\user\Documents\172101856\172101856\bin\Debug\172101856.xml
+C:\Users\user\Documents\172101856\172101856\obj\Debug\_172101856.FormLaporanPenulis.resources

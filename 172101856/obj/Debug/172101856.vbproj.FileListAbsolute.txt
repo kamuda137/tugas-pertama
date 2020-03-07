@@ -1,0 +1,9 @@
+E:\172101856\172101856\obj\Debug\172101856.vbprojResolveAssemblyReference.cache
+E:\172101856\172101856\obj\Debug\_172101856.Form1.resources
+E:\172101856\172101856\obj\Debug\_172101856.Formanggota.resources
+E:\172101856\172101856\obj\Debug\_172101856.Formbuku.resources
+E:\172101856\172101856\obj\Debug\_172101856.FormLaporanPenulis.resources
+E:\172101856\172101856\obj\Debug\_172101856.Formpenerbit.resources
+E:\172101856\172101856\obj\Debug\_172101856.Formpenulis.resources
+E:\172101856\172101856\obj\Debug\_172101856.Resources.resources
+E:\172101856\172101856\obj\Debug\172101856.vbproj.GenerateResource.Cache
